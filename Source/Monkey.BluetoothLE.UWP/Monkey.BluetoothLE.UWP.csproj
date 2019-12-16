@@ -119,7 +119,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Monkey.BluetoothLE.Core\Monkey.BluetoothLE.Core.csproj">
       <Project>{65733427-b647-4556-a87c-20937496780a}</Project>
-      <Name>Robotics.Mobile.Core</Name>
+      <Name>Monkey.BluetoothLE.Core</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
